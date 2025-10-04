@@ -228,8 +228,8 @@ I built FreshCast AI to demonstrate:
 Building AI systems for supply chain optimization
 
 - **GitHub:** [github.com/Saimudragada](https://github.com/Saimudragada)
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/saimudragada/)
+- **Email:** saimudragada1@gmail.com
 
 ---
 
@@ -237,4 +237,3 @@ Building AI systems for supply chain optimization
 
 ---
 
-*Built in 2-3 hours as a demonstration of rapid prototyping and supply chain ML expertise.*
